@@ -1,3 +1,3 @@
-= Nginx X Send File
+= Disable X Sendfile
 
-Rails 3 plugin to enable X Send File
+Rails 3 plugin to disable X-Sendfile on Heroku
