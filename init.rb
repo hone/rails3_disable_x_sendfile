@@ -1,3 +1,1 @@
-Rails.application.class.configure do
-  config.action_dispatch.x_sendfile_header = "X-Accel-Redirect"
-end
+Rails.application.config.action_dispatch.x_sendfile_header = "X-Accel-Redirect"
